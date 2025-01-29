@@ -114,7 +114,7 @@ The database consists of the following key tables:
 ## 💡 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/farmers-market-sql.git
+   git clone https://github.com/haneesha-thasni/farmers-market-sql.git
    ```
 2. Open your SQL client and import the **farmers_market** database.
 3. Run queries in your preferred SQL environment.
